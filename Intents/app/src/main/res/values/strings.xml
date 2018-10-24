@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string-array name= "intents">
+    <item>Open a browser</item>
+    <item>Dial</item>
+    <item>Show Map</item>
+    <item>Take a picture</item>
+    <item>Show contacts</item>
+    </string-array>
+</resources>
